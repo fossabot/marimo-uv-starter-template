@@ -1,4 +1,6 @@
 # marimo + uv Starter Template
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fberkaykaratas07%2Fmarimo-uv-starter-template.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fberkaykaratas07%2Fmarimo-uv-starter-template?ref=badge_shield)
+
 
 A starter template for [marimo](https://marimo.io) notebooks using [uv](https://github.com/astral-sh/uv) for dependency and project management. This template provides a modern Python development setup with best practices for notebook development.
 
@@ -63,3 +65,6 @@ uv run ruff format .
 ## License
 
 MIT
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fberkaykaratas07%2Fmarimo-uv-starter-template.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fberkaykaratas07%2Fmarimo-uv-starter-template?ref=badge_large)
